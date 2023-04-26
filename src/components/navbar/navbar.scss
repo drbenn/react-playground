@@ -42,6 +42,8 @@ li a {
   text-decoration: none;
   background: linear-gradient(90deg, trasparent 0%, trasparent 100%);
   transition: all 150ms ease-in;
+  line-height: 2rem;
+  padding: 1rem;
 }
 
 li a:hover {
